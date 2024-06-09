@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @casptyche
-- 👀 I’m interested in ... building my open source profile to further my skillset
-- 💞️ I’m looking to collaborate on ... 'complex' Spigot/Paper plugins
-- 📫 How to reach me ... via GitHub
+- 👀 I’m interested in building my open source profile to further my skillset
+- 💞️ I’m looking to collaborate on 'complex' Spigot/Paper plugins
+- 📫 How to reach me via GitHub
 
 
 <!---
