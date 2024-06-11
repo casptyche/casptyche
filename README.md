@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @casptyche
-- 👀 I’m interested in building my open source profile to further my skillset. I'm knowledgeable on Spigot/Paper Java plugins, so I am starting there.
+- 👀 I’m looking to contribute to open source projects. I'm knowledgeable on Spigot/Paper Java plugins, so I am starting there.
 - 📫 Reach me via GitHub or [spigotmc.org](https://www.spigotmc.org/members/casp.2038057/)
 
 
